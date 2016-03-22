@@ -1,0 +1,26 @@
+{
+  "name": "travelbot",
+  "version": "1.0.0",
+  "description": "Travelbot gives you travel recommendations and helps plan your travels",
+  "main": "lib/travelbot.js",
+  "scripts": {
+    "test": "hi"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/epicdelia/Omeron.git"
+  },
+  "keywords": [
+    "travel"
+  ],
+  "author": "Delia Lazarescu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/epicdelia/Omeron/issues"
+  },
+  "homepage": "https://github.com/epicdelia/Omeron#readme",
+  "dependencies": {
+    "slackbots": "^0.5.1",
+    "sqlite3": "^3.1.2"
+  }
+}
